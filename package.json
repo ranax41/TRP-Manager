@@ -1,0 +1,13 @@
+{
+    "name": "TRP Manager",
+    "version": "1.0.0",
+    "description": "Watching TRP Server",
+    "main": "trp-bot.js",
+    "author": "ranax41",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "dependencies": {
+	"discord.js" : "11.2.1"
+	}
+}
